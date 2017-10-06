@@ -1,10 +1,9 @@
+This is just a fock of imgscalr.  The original library seems barely maintained, and, more importantly, has a bunch of scary external links that seem to be domain-hijacked, possibly by malware site?  So, I'm forking to make sure it continues to exist if it's really abandoned.  (I haven't had a chance to audit the code to make sure nothing nasty is in their either.)
+
 imgscalr - Java Image-Scaling Library
-http://www.thebuzzmedia.com/software/imgscalr-java-image-scaling-library/
 
 
-				=================================================
-				  See imgscalr in action at http://imgscalr.com
-				=================================================
+
 
 
 Changelog
@@ -451,13 +450,3 @@ Reference
 ---------
 Chris Campbell Incremental Scaling - http://today.java.net/pub/a/today/2007/04/03/perils-of-image-getscaledinstance.html
 
-
-Related Projects
-----------------
-ExifTool for Java - http://www.thebuzzmedia.com/software/exiftool-enhanced-java-integration-for-exiftool/
-
-
-Contact
--------
-If you have questions, comments or bug reports for this software please contact
-us at: software@thebuzzmedia.com
